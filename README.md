@@ -6,3 +6,5 @@ For this board I have used the SOIC package. The features of this board are:
 *	It has both 5V and 3.3V output pins
 *	It can be powered using both USB and a PWR pin
 *	It has an on board reset button for manual reset.
+
+![IamSubhrajyoti](https://user-images.githubusercontent.com/71866529/103460793-41f84480-4d3f-11eb-9523-74941b5403b9.jpg)
